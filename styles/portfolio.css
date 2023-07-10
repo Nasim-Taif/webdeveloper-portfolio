@@ -209,9 +209,6 @@ line-height: 28px;
     margin-right: 25px;
 }
 
- .contact-form{
-
- }
 .contact-form input[type="text"],input[type="email"]  ,textarea {
     display: block;
     margin-bottom: 24px;
